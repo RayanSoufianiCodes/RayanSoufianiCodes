@@ -12,6 +12,5 @@
 
 ## 📫 How to reach me
 - Email - rayansoufiani1@gmail.com
-- Phone - 720-761-4726
-
+- 
 Thanks for visiting my GitHub! 🌟
