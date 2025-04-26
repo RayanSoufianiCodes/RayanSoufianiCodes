@@ -11,6 +11,7 @@
 - Interests: AI, Cybersecurity, Software Development, Web Development
 
 ## 📫 How to reach me
-- [optional: Add a school email or professional email if you want, or skip for now]
+- Email - rayansoufiani1@gmail.com
+- Phone - 720-761-4726
 
 Thanks for visiting my GitHub! 🌟
