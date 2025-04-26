@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Rayan! 👋
 
 🔭 I’m a 7th-grade student passionate about computer science, cybersecurity, and AI research.  
 🚀 Currently working on an Antivirus Software Project and an AI Firewall Technology research paper (being published by Springer Nature).  
