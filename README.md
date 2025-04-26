@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 👋
 
-<!--
-**RayanSoufianiCodes/RayanSoufianiCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m a 7th-grade student passionate about computer science, cybersecurity, and AI research.  
+🚀 Currently working on an Antivirus Software Project and an AI Firewall Technology research paper (being published by Springer Nature).  
+🌱 I love building real-world tech projects and teaching others how to code (check out my JavaScript Learning Website!).  
+🏆 1st Place in Computer Science Category - School Science Fair.  
+📚 Always learning new programming languages and development techniques.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Know
+- Programming: HTML, CSS, JavaScript, Python, Lua, VB.NET, C#
+- Interests: AI, Cybersecurity, Software Development, Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- [optional: Add a school email or professional email if you want, or skip for now]
+
+Thanks for visiting my GitHub! 🌟
